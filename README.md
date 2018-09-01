@@ -31,7 +31,7 @@ Run the environment with either of the methods described above and the experimen
 The experimenter can switch task by pressing numpad key 0-3, with 0 activating practice environment and 1-3 activationg tasks 1-3.
 By default, CARA is implemented. Press "M" to mute CARA to test other systems (e.g. vOICe). To unmute, press "U".
 
-Frame by frame logs of subject position, orientation, target position, key experiment status are saved as text files in D:/VR/ by default.
+Frame by frame logs of subject position, orientation, target position, key experiment parameters are saved as text files in D:/VR/ by default.
 
 For more details please see the publication [to be added].
 
