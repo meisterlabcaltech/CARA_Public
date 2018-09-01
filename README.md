@@ -5,7 +5,7 @@ Cognitive Augmented Reality Assistant (CARA) for the Blind
 ## Introduction
 
 This Unity project includes a VR environment is developed for benchmarking various types of visual and cognitive prostheses. 
-It is intially developed as a platform to compare CARA and vOICe, two drastically different visual/coginitive prostheses.
+It is intially developed as a platform to compare CARA and vOICe, two drastically different visual/cognitive prostheses.
 However, the flexibility of the environment makes it possible to implement and test a wide variety of prosthetic systesms.
 
 ### Prerequisites
