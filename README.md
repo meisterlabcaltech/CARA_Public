@@ -40,5 +40,5 @@ For more details please see the publication [to be added].
 * **Yang Liu**
 
 ## License
-This project is licensed under the MIT license
+This project is licensed under the MIT license.
 ## Acknowledgments
